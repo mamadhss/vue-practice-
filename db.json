@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Casual Shoe",
+      "price": "$200",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Casual Tshirt",
+      "price": "$50",
+      "brand": "Nike",
+      "inventoryStatus": false,
+      "id": 2
+    },
+    {
+      "name": "another shirt",
+      "price": "$70",
+      "brand": "fendi",
+      "inventoryStatus": false,
+      "id": 3
+    },
+    {
+      "name": "adddd",
+      "price": "$ssss",
+      "brand": "wdsddsd",
+      "inventoryStatus": true,
+      "id": 4
+    },
+    {
+      "name": "test dn",
+      "price": "$test danger",
+      "brand": "danger",
+      "inventoryStatus": false,
+      "id": 5
+    }
+    
+  ]
+}
